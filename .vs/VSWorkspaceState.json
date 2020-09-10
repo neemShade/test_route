@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\webapp",
+    "\\src\\main\\webapp\\app",
+    "\\src\\main\\webapp\\app\\shared",
+    "\\src\\main\\webapp\\app\\shared\\layout",
+    "\\src\\main\\webapp\\app\\shared\\layout\\header",
+    "\\src\\main\\webapp\\app\\shared\\layout\\menus",
+    "\\src\\main\\webapp\\app\\upload"
+  ],
+  "SelectedNode": "\\src\\main\\webapp\\app\\shared\\layout\\header\\header.tsx",
+  "PreviewInSolutionExplorer": false
+}

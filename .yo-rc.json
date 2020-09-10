@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.neemshade.test"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "monolith",
+    "baseName": "test_route",
+    "packageName": "com.neemshade.test",
+    "packageFolder": "com/neemshade/test",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OGVlNmExNjZlOGU1OWJkYjRmZmRmMzk5YTVjYjJmMTZhOGUwNWIyMzFjMmMxNWZhNTI5YjJhNjUwNTAxZGNlNzdkZWM0YWFjNjBhMmQyYjFjNjc3MDk0OTAwM2MwN2M4ZTgzZjVjZWIzZGJiMWQ0Yjg4MDM0NTM2ZDM3YTNjZmU=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1599193309414,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
